@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Màu cơ bản -->
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- 🎨 Bộ màu pastel -->
+    <color name="pastelPink">#F8BBD0</color>     <!-- Hồng pastel -->
+    <color name="pastelYellow">#FFF9C4</color>   <!-- Vàng pastel -->
+    <color name="pastelBlue">#BBDEFB</color>     <!-- Xanh da trời pastel -->
+    <color name="pastelGreen">#C8E6C9</color>    <!-- Xanh lá pastel -->
+    <color name="pastelPurple">#E1BEE7</color>   <!-- Tím pastel -->
+    <color name="pastelOrange">#FFE0B2</color>   <!-- Cam pastel -->
+
+    <!-- Màu chủ đạo chính/phụ -->
+    <color name="primaryColor">@color/pastelBlue</color>
+    <color name="primaryDarkColor">#90CAF9</color>
+    <color name="accentColor">@color/pastelPink</color>
 </resources>
